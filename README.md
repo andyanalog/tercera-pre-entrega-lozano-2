@@ -1,9 +1,11 @@
 # tercera-pre-entrega-lozano-2
 ## Descripción
   La idea de esta web es que sea una página para un estudio de grabación propio en el que el usuario pueda realizar consultas e incluso enviar sus canciones para ser mezcladas/masterizadas desde la misma web.
+  A TENER EN CUENTA: La página la hice chequeandola con Safari. Con Mozilla no tuve problemas a la hora de probar como se veía pero si en Chrome.
 
 
 - Una vez descargado/clonado el repositorio y tener corriendo en servidor;
+- URL Principal: http://127.0.0.1:8000/AppLacasona/inicio/
 - Probar los diferentes botones. Entrar a "Newsletter" (formulario para suscribirse), "Envianos tu canción" (donde el usuario puede enviar su musica para ser trabajada a distancia), "Hablá con nosotros" (para enviar mensajes/consultas).
 - Probar el hyperlink "Instagram" que se encuentra en el inicio.
 - Seguir los siguientes pasos para la búsqueda en la BD:
